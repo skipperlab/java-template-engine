@@ -1,0 +1,18 @@
+Version 1.2 (2018-08-09)
+========================
+
+ * Disallow calling methods whose name matches the field
+
+Version 1.1 (2018-06-17)
+========================
+
+ * Add variable assignments
+ * Fix javadoc
+
+IMPORTANT: since the "=" variable declaration token has been changed to ":=",
+there is no backwards compatibility with version 1.0.
+
+Version 1.0 (2018-06-13)
+========================
+
+First release.
